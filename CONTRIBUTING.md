@@ -5,7 +5,7 @@ English (US) | [简体中文](CONTRIBUTING.zh-Hans.md)
 ## Development
 
 Make sure you have [pnpm](https://pnpm.io/installation) and
-[Turborepo](https://turbo.build/repo/docs/installing) installed globally.
+[Nx](https://nx.dev/getting-started/installation#installing-nx-globally) installed globally.
 
 ```bash
 npm -g install pnpm nx
